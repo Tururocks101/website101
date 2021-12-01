@@ -1,0 +1,17 @@
+h1   {
+    color:rgb(9, 143, 27);
+    text-align:center;
+    font-size:200%;
+  }
+  p {
+    color:rgb(42, 42, 230);
+    text-align:center;
+    font-size:200%
+  }
+  .floatleft{
+      float:left;
+  }
+  
+
+  
+  
