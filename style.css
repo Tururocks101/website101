@@ -11,6 +11,17 @@ h1   {
   .floatleft{
       float:left;
   }
+  .container{
+     padding-right: 10px;
+     padding-left: 10px;
+     margin-right: auto;
+     margin-left: auto;
+   }
+   @media (min-width: @screen-md-min) {1000px}
+       .container {
+           width: 900px;
+       }
+   
   
 
   
